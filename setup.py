@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="pysmz3",
-    version="1.0.0",
+    version="1.0.1",
     author="Thomas Prescott",
     author_email="tcprescott@gmail.com",
     description="A python module for interacting with samus.link, such as generating new smz3 games and retrieving old games.",
